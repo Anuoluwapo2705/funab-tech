@@ -1,0 +1,30 @@
+table {
+  text-transform: uppercase;
+  border-radius: 18px;
+  width: 90%;
+  height: 40vh;
+  background-image: linear-gradient(
+    red,
+    orange,
+    yellow,
+    green,
+    blue,
+    violet,
+    indigo
+  );
+}
+th {
+  background-color: aqua;
+  border-color: red;
+}
+td {
+  background-color: black;
+  color: white;
+}
+th,
+td {
+  border: 0.2rem solid;
+  text-transform: uppercase;
+  border-radius: 10pc;
+  text-align: center;
+}
